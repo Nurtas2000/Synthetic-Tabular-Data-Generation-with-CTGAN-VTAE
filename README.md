@@ -1,0 +1,1 @@
+# Synthetic-Tabular-Data-Generation-with-CTGAN-VTAE
